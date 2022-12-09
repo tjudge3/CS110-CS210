@@ -1,4 +1,4 @@
-/* tjudge - guess the number - switch/
+/* tjudge - guess the number - switch*/
 #include<iostream>
 using namespace std;
 int main() {
